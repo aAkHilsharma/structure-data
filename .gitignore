@@ -1,0 +1,19 @@
+# Ignore virtual environment
+env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore CSV output file
+elements_output.csv
+
+# Ignore test output, if any
+*.log
+
+# Ignore any local configuration or IDE files
+.idea/
+.vscode/
+
+# Ignore environment variables files (if any)
+.env
